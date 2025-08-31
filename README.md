@@ -5,7 +5,7 @@
 
 ---
 
-## 🏢 Company Background  
+## Company Background  
 CTI is a diversified group in real estate, logistics, and concrete manufacturing.  
 One of its subsidiaries, *Trust Concrete*, produces precast slabs used in affordable housing and infrastructure.  
 
@@ -13,7 +13,7 @@ Management is considering investing in new machinery to increase efficiency and 
 
 ---
 
-## 🎯 Project Objective  
+## Project Objective  
 This project determines whether the proposed machinery investment is financially viable using capital investment appraisal techniques.  
 
 The financial model generates:  
@@ -24,29 +24,29 @@ The financial model generates:
 
 ---
 
-## 💰 Cash Flow Assumptions  
+## Cash Flow Assumptions  
 - *Year 0*: Initial machinery purchase (large outflow)  
 - *Years 1–5*: Positive inflows from operations  
 
 ---
 
-## 📐 Key Formulas  
+## Key Formulas  
 - *NPV*: Net Present Value → Accept if > 0  
 - *IRR*: Internal Rate of Return → Accept if > cost of capital (10%)  
 - *Payback*: Years needed to recover investment  
 
 ---
 
-## 📊 Results  
-- *NPV*: Positive → Project creates value ✅  
-- *IRR*: > 10% → Strong return ✅  
-- *Payback*: Within 5 years ✅  
+## Results  
+- *NPV*: Positive → Project creates value  
+- *IRR*: > 10% → Strong return 
+- *Payback*: Within 5 years  
 
-📌 *Conclusion*: The machinery investment is financially viable.  
+ *Conclusion*: The machinery investment is financially viable.  
 
 ---
 
-## ✅ Recommendations  
+## Recommendations  
 - Proceed with investment  
 - Perform sensitivity analysis (demand/cost changes)  
 - Align logistics & real estate divisions  
@@ -54,7 +54,7 @@ The financial model generates:
 
 ---
 
-## 🚀 Deliverables  
+## Deliverables  
 - cashflows.xlsx  
 - Investment_Appraisal_Model.py  
 - report.pdf  
@@ -62,5 +62,5 @@ The financial model generates:
 
 ---
 
-## 📌 About This Project  
+## About This Project  
 This project demonstrates how capital investment appraisal techniques can guide *strategic decision-making* with quantitative evidence.
