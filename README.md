@@ -5,7 +5,8 @@
 
 # Capital Investment Appraisal – Case Study Report  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Michael-Sando/CAPITAL-INVESTMENT-APPRAISAL-MODEL/blob/main/investment_appraisal.py)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Michael-Sando/CAPITAL-INVESTMENT-APPRAISAL-MODEL/blob/main/investment_appraisal.py)
+ 
 
 *(Click the button above to run the Capital Investment Appraisal model in Google Colab — no installation required.)*  
 
