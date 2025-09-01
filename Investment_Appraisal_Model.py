@@ -1,7 +1,7 @@
 # --------------------------------------
 # Self-Contained Investment Appraisal Script
 # --------------------------------------
-
+!pip install numpy-financial
 import pandas as pd
 import numpy_financial as nf
 import matplotlib.pyplot as plt
